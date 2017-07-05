@@ -3,7 +3,7 @@
 Created on Mon Apr 24 11:39:43 2017
 
 @author: yanc wang
-
+@version: python2.7
 """
 
 import os
