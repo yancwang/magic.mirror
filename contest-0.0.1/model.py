@@ -2,7 +2,8 @@
 """
 Created on Thu Jun 15 16:27:24 2017
 
-@author: yancw
+@author: yanc wang
+@version: python3.5
 """
 
 import os
