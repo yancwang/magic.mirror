@@ -2,7 +2,8 @@
 """
 Created on Mon Apr 24 11:39:43 2017
 
-@author: yancw
+@author: yanc wang
+
 """
 
 import os
