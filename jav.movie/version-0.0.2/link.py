@@ -6,6 +6,7 @@ Created on Sun Jan 22 11:15:27 2017
 """
 
 import os
+import pandas as pd
 from film import getOpener
 from bs4 import BeautifulSoup
 
@@ -30,6 +31,7 @@ def remove_depulicate():
     pass
     
 def main():
+    remove_depulicate();
     # get film list
     path = os.getcwd();
     filelist = os.listdir(os.path.join(path, 'test'));
