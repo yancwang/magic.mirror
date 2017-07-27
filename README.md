@@ -1,1 +1,1 @@
-# magic.mirror
+# yanc.project
